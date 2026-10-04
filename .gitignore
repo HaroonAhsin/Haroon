@@ -1,0 +1,4 @@
+# Working files of the Atlas Wazuh dashboard work: they hold internal IPs, email addresses and dashboard data,
+# and this repository is public, so they are not versioned here (the source bundle is handed over privately).
+work/
+deliver/
